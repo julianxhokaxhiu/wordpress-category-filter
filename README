@@ -1,0 +1,8 @@
+AUTHOR: Julian Xhokaxhiu
+VERSION: 0.1
+DESCRIPTION: Enable a category filter widget on your wordpress.
+
+HOW DOES IT WORK:
+When you install it, it does get all the categories you set on articles,
+and create a checkbox filter, that can retrive you the number of articles
+that matched the filter (it can be singled, or crossed).
